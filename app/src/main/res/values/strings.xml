@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">值班表</string>
+    <string name="action_settings">设置</string>
+    <string name="action_settings1">无聊看看</string>
+    <string name="action_settings2">退出</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_setting">SettingActivity</string>
+    <string name="next">下一步</string>
+    <string name="previous">上一步</string>
+    <string name="finish">完成</string>
+</resources>
